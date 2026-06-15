@@ -26,7 +26,7 @@ I'm a passionate learner and technology enthusiast with a strong interest in sof
 ### 📫 Contact Me
 
 📧 Email: [gkaurk846@gmail.com](mailto:gkaurk846@gmail.com)
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gurman-kaur-1a4a60334/)
+🔗 LinkedIn: [Gurman Kaur](https://www.linkedin.com/in/gurman-kaur-1a4a60334/)
 
 
 <!-- Optional: You can also add GitHub stats or badges below if desired -->
