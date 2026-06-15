@@ -1,26 +1,33 @@
-# 👋 Hi, I'm Gurman Kaur
+## 💻 About Me
 
-### 💻 About Me
-I'm a passionate learner and tech enthusiast with knowledge in:
-- 🐍 Python  
-- 🧮 SQL  
-- 💻 C Programming  
-- 🌐 HTML & CSS
+I'm a passionate learner and technology enthusiast with a strong interest in software development and emerging technologies. I enjoy building projects, learning new skills, and exploring innovative solutions to real-world problems.
 
-### 🎧 Hobbies
-Apart from coding, I enjoy:
-- Listening to music 🎶  
-- Cooking 🍳  
-- Travelling ✈️  
+### 🛠️ Skills
+
+* 🐍 Python
+* 🧮 SQL
+* 🤖 Machine Learning Basics
+* 💻 C Programming
+* 💻 C++ Programming
+* 🌐 HTML & CSS
 
 ### 🔍 Interests
-I'm especially curious about:
-- 🛡️ Cyber Security  
-- 🤖 Artificial Intelligence & Machine Learning  
-- 📱 Social Media and its impact
 
-### 📫 How to Reach Me
+* 🤖 Artificial Intelligence & Machine Learning
+* ☁️ Cloud Computing
+* 📱 Social Media & Digital Technologies
+
+### 🎧 Hobbies
+
+* 🎶 Listening to Music
+* 🍳 Cooking
+* ✈️ Travelling
+
+### 📫 Contact Me
+
 📧 Email: [gkaurk846@gmail.com](mailto:gkaurk846@gmail.com)
+🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gurman-kaur-1a4a60334/)
+
 
 <!-- Optional: You can also add GitHub stats or badges below if desired -->
 
